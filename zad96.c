@@ -1,7 +1,6 @@
 // Program treba naci sve parne i neparne brojeve u polja.
 
 #include<stdio.h>
-#include<conio.h>
 
 int main()
 {
